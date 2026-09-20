@@ -1,0 +1,7 @@
+- [x] Make the project home
+- [x] Write a simple plan for Hello Pluto
+- [x] Make a small Hello Pluto web page
+- [x] Add a friendly Pluto look
+- [x] Check that it works
+- [x] Ask before putting it online
+- [ ] Put it online after you say yes
